@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #101417;
+  color: #e0e2e8;
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+}

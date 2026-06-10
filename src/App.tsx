@@ -9,7 +9,7 @@ import {
   SpecialtiesOrganism,
   TerminalOrganism,
   FooterOrganism,
-} from "./components/organisms";
+} from "./components/organisms/index";
 
 // Reset global margins/paddings and configure central fonts without Tailwind dependency
 const GlobalStyle = createGlobalStyle`
